@@ -1,9 +1,78 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="第 1 页" id="PDHeMenidrBcFPeE-wvX">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YlcSn1d-cx9hKhMfV2pr-1" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;模型部署&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlcSn1d-cx9hKhMfV2pr-2" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;Ollama&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlcSn1d-cx9hKhMfV2pr-3" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;LM Studio&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlcSn1d-cx9hKhMfV2pr-4" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;Open WebUI&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlcSn1d-cx9hKhMfV2pr-5" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;UI&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlcSn1d-cx9hKhMfV2pr-6" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;ChatGPT&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;NextWeb&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlcSn1d-cx9hKhMfV2pr-7" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;ChatBox&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlcSn1d-cx9hKhMfV2pr-8" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;向量库&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="229" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlcSn1d-cx9hKhMfV2pr-9" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;Milvus&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="229" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlcSn1d-cx9hKhMfV2pr-10" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;代码助手&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlcSn1d-cx9hKhMfV2pr-11" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;CodeFuse&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlcSn1d-cx9hKhMfV2pr-12" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;CodeGeeX&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="434" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlcSn1d-cx9hKhMfV2pr-13" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;Code&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;Whisperer&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlcSn1d-cx9hKhMfV2pr-14" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;Copilot&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlcSn1d-cx9hKhMfV2pr-15" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;图像&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlcSn1d-cx9hKhMfV2pr-16" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;ComfyUI&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlcSn1d-cx9hKhMfV2pr-17" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;Stable&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;Diffusion&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="434" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlcSn1d-cx9hKhMfV2pr-18" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;OpenAI&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;API Proxy&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlcSn1d-cx9hKhMfV2pr-19" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;OneApi&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlcSn1d-cx9hKhMfV2pr-20" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;模型下载&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlcSn1d-cx9hKhMfV2pr-21" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;Huggingface&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlcSn1d-cx9hKhMfV2pr-22" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;ModelScope&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="434" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlcSn1d-cx9hKhMfV2pr-23" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;Civitai&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
